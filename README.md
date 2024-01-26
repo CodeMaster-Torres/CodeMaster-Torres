@@ -5,7 +5,7 @@
 
 - 🌱 We're currently learning **React, Dart, Flutter**
 
-- ⚡She´s [Marycarmen Torres Parra
+- ⚡She´s **Marycarmen Torres Parra**
 -  ⚡ He's **Carrasco Torres Marco Adrian**
 
 - 📫 How to reach us **codemastertorres@gmail.com**
